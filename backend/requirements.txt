@@ -1,0 +1,10 @@
+requests
+langchain
+langgraph
+langchain-google-genai
+python-dotenv
+flask
+sentence-transformers
+xgboost
+numpy
+flask-cors
