@@ -6,10 +6,19 @@ SAM-OFFER FOR YOU. I can get you
 approved for a no-interest credit
 card today ONLY. Learn more:
 aihfori.it.car.com
+
+
+
 fake news realtime :
 hey i have just recieved the news that narendra modi died is it true ?
+
+
+
 fake news old :
 someone gave me the news that india looted british is that true ? or is it vice versa
+
+
+
 fake email :
 Subject: Important Notice: Account Suspension Warning
 Dear Valued Customer,
@@ -25,12 +34,18 @@ Sincerely,
 The Security Team
 Bank of America (or insert any popular bank name)
 urls
+
+
+
 legit urls:
 are these given urls legit or not can you check real quick ?
     https://google.com 
     https://wikipedia.com
     www.google.com
     www.amazon.com
+
+
+
 fake urls :
 http://secure-paypal-account-verification.com
 https://amazon-prime-membership-alert.xyz
@@ -39,6 +54,9 @@ http://appleid-login-helpcenter.net
 www.dghjdgf.com/paypal.co.uk/cycgi-bin/webscrcmd=_home-customer&nav=1/loading.php,
 serviciosbys.com/paypal.cgi.bin.get-into.herf.secure.dispatch35463256rzr321654641dsf654321874/href,
 mail.printakid.com/www.online.americanexpress.com/index.html
+
+
+
 full test :
 {
     "user_query": "Hey, I got this email. Can you check if it's a scam?\n\nSubject: Urgent! Your PayPal Account Has Been Limited\n\nDear Customer,\n\nWe've noticed suspicious activity on your PayPal account. To restore access, please confirm your identity immediately by clicking the secure link below:\n👉 https://paypal-security-verification.com\n\nFailure to do so will result in account suspension.\n\nBest regards,\nPayPal Security Team"
